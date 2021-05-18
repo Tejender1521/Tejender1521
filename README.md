@@ -5,4 +5,4 @@
 - 📫 How to reach me www.linkedin.com/in/tejender-upadhyay
 
 
-[![Tejender GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejender1521&count_private=true)](https://github.com/Tejender1521/github-readme-stats)
+[![Tejender GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejender1521&count_private=true&show_icons=true&theme=radical)](https://github.com/Tejender1521/github-readme-stats)

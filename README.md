@@ -6,3 +6,4 @@
 
 
 [![Tejender GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejender1521&count_private=true&show_icons=true&theme=radical)](https://github.com/Tejender1521/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejender1521&layout=compact)](https://github.com/Tejender1521/github-readme-stats)

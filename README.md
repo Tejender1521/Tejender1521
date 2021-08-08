@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, It's Tejender Upadhyay here</h1>
 <h3 align="center">Sophomore at Indian Institute of Information Technology, Kota</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejender1521&label=Profile%20views&color=1100fa&style=plastic" alt="tejender1521" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejender1521" alt="tejender1521" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **React, DBMS, DSA**
 
@@ -26,5 +26,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejender1521&show_icons=true&theme=cobalt&title_color=00ffe1&text_color=00ffe1&locale=en" alt="tejender1521" /></p>
 
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejender1521&" alt="tejender1521" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejender1521" alt="tejender1521" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejender1521&label=Profile%20views&color=1100fa&style=plastic" alt="tejender1521" /> </p>

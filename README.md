@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React, DBMS, DSA**
+- 🌱 I’m currently learning DBMS, DSA**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 

@@ -25,7 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejender1521&show_icons=true&locale=en&layout=compact" alt="tejender1521" /></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejender1521&show_icons=true&theme=cobalt&title_color=00ffe1&text_color=00ffe1&locale=en" alt="tejender1521" /></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejender1521&label=Profile%20views&color=1100fa&style=plastic" alt="tejender1521" /> </p>

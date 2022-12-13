@@ -32,8 +32,8 @@ Profileme.dev
 * 🌍  I'm based in Jaipur
 * 🖥️  See my portfolio at [Portfolio](http://www.tejender-upadhyay.tech/)
 * ✉️  You can contact me at [code.tejender@gmail.com](mailto:code.tejender@gmail.com)
-* 🧠  I'm learning Backend with Node.js
-* 🤝  I'm open to collaborating on MERN Stack Projects \[Specially Database Management in MongoDB, Integration with Node.js using Express.js\]
+* 🧠  Focused and efficient self taught learner with practical expertise in full stack web development.
+* 🤝  Highly extensive experience working with Javascript, I would jump at any opportunity to continue growing my skillset in the JS field.
 
 <a href="https://www.twitter.com/tarun1521" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tarun1521?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

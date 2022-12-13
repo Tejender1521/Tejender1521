@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" margin="5" />
+<img align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
 
 
 <!--

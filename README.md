@@ -41,42 +41,40 @@ src="https://img.shields.io/github/followers/Tejender1521?logo=github&style=for-
 <div align="center">
 <div align="center">
 <code>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img src="https://img.icons8.com/fluency/48/null/python.png" alt="Python" />
 </code> <br>
 </div>
 <code>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+<img src="https://img.icons8.com/fluency/48/null/c-programming.png"  alt="C" />
+<img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png" alt="C++" />
 </code> <br>
 </div>
 <code>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
 </code><br>
 </div>
 <code>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" height="40" alt="Express" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
+<img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" />
+<img src="https://img.icons8.com/ios/50/null/express-js.png" alt="Express" />
+<img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="NodeJS" />
+<img src="https://img.icons8.com/office/40/null/react.png"  alt="React" />
 </code> <br>
 </div>
 <code>
- <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40" />
+ <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="48" height="48" />
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" />
+<img src="https://img.icons8.com/color/48/null/heroku.png" alt="Heroku" />
 <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" />
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </code> <br>
 </div>
 <code>
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-
+<img src="https://img.icons8.com/fluency/48/null/tailwind_css.png" alt="TailwindCSS" />
+<img src="https://img.icons8.com/color/48/null/bootstrap.png" alt="Bootstrap" />
+<img src="https://img.icons8.com/color/48/null/material-ui.png" alt="Material UI" />
 </code>
 </div>
 
@@ -88,9 +86,13 @@ src="https://img.shields.io/github/followers/Tejender1521?logo=github&style=for-
 <br/>
 
 <p align="center"> 
-  <code>
-<a href="https://www.dev.to/tejender_upadhyay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Tejender1521" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tejender_upadhyay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tejender-upadhyay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tarun1521" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  </code>
+<code>
+<a href="https://www.dev.to/tejender_upadhyay" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/windows/48/null/dev.png"/></a>
+<a href="https://www.github.com/Tejender1521" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/sf-regular-filled/48/null/github.png" /></a> 
+<a href="http://www.instagram.com/tejender_upadhyay" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" /></a>
+<a href="https://www.linkedin.com/in/tejender-upadhyay" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/linkedin.png" /></a> 
+<a href="https://www.twitter.com/tarun1521" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/twitter.png" /></a>
+</code>
 </p>
 
 </div>

@@ -8,8 +8,7 @@
 
 
 
-
-<img align="right"  alt="GIF" src="https://github.com/Tejender1521/Tejender1521/blob/master/Header.webp?raw=true" width="450" height="300" />
+<img align="right"  alt="Header GIF" src="./Header.webp" width="450" height="300" />
 <br>
 <br>
 

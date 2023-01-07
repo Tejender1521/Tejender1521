@@ -4,8 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=2AF700&background=00FFE400&center=true&width=435&lines=It's+Tejender+Upadhyay+here;Computer+Science+Undergraduate;Full+Stack(MERN+Stack)+Developer)](https://git.io/typing-svg)
 
 
-<!-- ![Snake animation](https://github.com/Tejender1521/Tejender1521/blob/output/github-contribution-grid-snake.svg) -->
-
 
 
 <img align="right"  alt="Header GIF" src="./code.gif" width="450" height="300" />

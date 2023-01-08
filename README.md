@@ -97,7 +97,10 @@ src="https://img.shields.io/github/followers/Tejender1521?logo=github&style=for-
 
 
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Tejender1521/count.svg" />
+</p>
 
 
 <img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

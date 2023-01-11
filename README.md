@@ -27,7 +27,8 @@ src="https://img.shields.io/twitter/follow/tarun1521?logo=twitter&style=for-the-
 src="https://img.shields.io/github/followers/Tejender1521?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></code>
 
 
-  
+### ✍️ Quote (Refresh for more)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <h2 align="center">Skills</h2>

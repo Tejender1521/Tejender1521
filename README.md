@@ -20,12 +20,12 @@ Profileme.dev
 * 🤝  Highly extensive experience working with Javascript, I would jump at any opportunity to continue growing my skillset in the JS field.
 
 <br>
-<code><a href="https://www.twitter.com/tarun1521" target="_blank" rel="noreferrer"><img
+<!-- <code><a href="https://www.twitter.com/tarun1521" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tarun1521?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a></code>
 <code><a href="https://www.github.com/Tejender1521" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tejender1521?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></code>
-
+ -->
 
 ### ✍️ Quote (Refresh for more)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=2AF700&background=00FFE400&center=true&width=435&lines=It's+Tejender+Upadhyay+here;Computer+Science+Undergraduate;Full+Stack(MERN+Stack)+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=2AF700&background=00FFE400&center=true&width=435&lines=Tejender+Upadhyay+This+Side+......;Computer+Science+Undergraduate;Full+Stack(MERN+Stack)+Developer)](https://git.io/typing-svg)
 
 
 

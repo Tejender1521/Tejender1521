@@ -15,7 +15,7 @@
 Profileme.dev
 --->
 * 🌍  I'm based in Jaipur
-* 🖥️  See my portfolio at [Portfolio](http://www.tejender-upadhyay.tech/)
+* 🖥️  See my portfolio at [Portfolio](https://tejender-upadhyay.netlify.app/)
 * ✉️  You can contact me at [code.tejender@gmail.com](mailto:code.tejender@gmail.com)
 * 🧠  Focused and efficient self taught learner with practical expertise in full stack web development.
 * 🤝  Highly extensive experience working with Javascript, I would jump at any opportunity to continue growing my skillset in the JS field.
